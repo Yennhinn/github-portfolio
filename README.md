@@ -12,7 +12,7 @@ Description: The dataset contains a list of sales records. The records include t
 
 Skills: data cleaning, data analysis, hypothesis testing, data visualization.
 
-Technology: Python, NLP.
+Technology: text cleaning, text analysis, NLP.
 
 Results: Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
 #### Loovoo Dating App
