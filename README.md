@@ -3,7 +3,7 @@
 My name is Nguyen Ngoc Yen Nhi
 ## Projects
 ### Python
-#### Scholarship Recommendation System
+#### 🏫 Scholarship Recommendation System
 **Goal:** To .
 
 Code: Tech Store Sales Analysis.ipynb
@@ -15,11 +15,11 @@ Skills: data cleaning, data analysis, hypothesis testing, data visualization.
 Technology: text cleaning, text analysis, NLP.
 
 Results: Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
-#### Loovoo Dating App
-#### Red Wine Quality
+#### 💌 Loovoo Dating App
+#### 🍷 Red Wine Quality
 
 ### Power BI
-#### HomeMart
+#### 🛒 HomeMart
 **Goal:** Analyze customer behavior, optimize product shelf placement and marketing strategies in a retail environment using camera-tracked behavior data to.
 
 **File:** [Homemart Power BI Dashboard](https://github.com/Yennhinn/github-portfolio/blob/main/Homemart%20Dashboard%20Group%204.pbix)
