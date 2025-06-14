@@ -1,3 +1,8 @@
 # Data Analyst Portfolio
 ## About me
 My name is Nguyen Ngoc Yen Nhi
+## Projects
+### Python
+#### Scholarship Recommendation System
+### Power BI
+#### HomeMart
