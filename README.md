@@ -4,7 +4,7 @@ My name is Nguyen Ngoc Yen Nhi
 ## Projects
 ### Python
 #### Scholarship Recommendation System
-*Goal:* To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
 Code: Tech Store Sales Analysis.ipynb
 
