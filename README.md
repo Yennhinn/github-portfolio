@@ -21,10 +21,11 @@ Results: Python functions that calculated and visually presented the sales data 
 ### Power BI
 #### HomeMart
 **Goal:** Analyze customer behavior, optimize product shelf placement and marketing strategies in a retail environment using camera-tracked behavior data to.
+
 **File:** [Download Power BI Dashboard](https://github.com/Yennhinn/github-portfolio/raw/main/Homemart_Dashboard_Group4.pbix)
+
 **Skills:** Data cleaning, feature engineering, customer behavior analysis, data visualization.
+
 **Technology:** Python (Pandas), Power BI, basic SQL.
+
 **Results:** A comprehensive Power BI dashboard visualizing customer flow, product performance, and shelf effectiveness. The analysis led to actionable recommendations such as repositioning high-demand shelves, optimizing weekend operations, and increasing targeted promotions for underperforming product zones.
-
-
-
