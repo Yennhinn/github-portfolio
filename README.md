@@ -4,7 +4,7 @@ My name is Nguyen Ngoc Yen Nhi
 ## Projects
 ### Python
 #### Scholarship Recommendation System
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+**Goal:** To .
 
 Code: Tech Store Sales Analysis.ipynb
 
@@ -12,10 +12,11 @@ Description: The dataset contains a list of sales records. The records include t
 
 Skills: data cleaning, data analysis, hypothesis testing, data visualization.
 
-Technology: Python, Pandas, Matplotlib.
+Technology: Python, NLP.
 
 Results: Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
-
+#### Loovoo Dating App
+#### Red Wine Quality
 
 ### Power BI
 #### HomeMart
