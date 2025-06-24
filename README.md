@@ -19,13 +19,13 @@ Results: Python functions that calculated and visually presented the sales data 
 #### 💌 Loovoo Dating App
 **Goal:** Analyze the factors that make people more attractive on the Lovoo dating app, thereby helping users build a more prominent online dating profile so they can more easily find a match (based on profile views, number of received kisses, and number of received gifts).
 
-File: DatingApp_Analysis
+**File:** DatingApp_Analysis
 
-Skills: correlation analysis, scatter plots, linear regression.
+**Skills:** correlation analysis, scatter plots, linear regression.
 
-Technology: Python (Pandas, Seaborn, Matplotlib).
+**Technology:** Python (Pandas, Seaborn, Matplotlib).
 
-Results: Delivered actionable insights recommending users to upload more pictures, provide detailed descriptions, and verify accounts to boost interactions. Found that titles like Flirtstar or VIP and in-app spending have minimal impact on popularity. Provided statistical evidence on interaction probabilities post-profile visit, informing effective user strategies.
+**Results:** Delivered actionable insights recommending users to upload more pictures, provide detailed descriptions, and verify accounts to boost interactions. Found that titles like Flirtstar or VIP and in-app spending have minimal impact on popularity. Provided statistical evidence on interaction probabilities post-profile visit, informing effective user strategies.
 
 #### 🍷 Red Wine Quality
 
