@@ -15,7 +15,18 @@ Skills: data cleaning, data analysis, hypothesis testing, data visualization.
 Technology: text cleaning, text analysis, NLP.
 
 Results: Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+
 #### 💌 Loovoo Dating App
+**Goal:** Analyze the factors that make people more attractive on the Lovoo dating app, thereby helping users build a more prominent online dating profile so they can more easily find a match (based on profile views, number of received kisses, and number of received gifts).
+
+File: DatingApp_Analysis
+
+Skills: correlation analysis, scatter plots, linear regression.
+
+Technology: Python (Pandas, Seaborn, Matplotlib).
+
+Results: Delivered actionable insights recommending users to upload more pictures, provide detailed descriptions, and verify accounts to boost interactions. Found that titles like Flirtstar or VIP and in-app spending have minimal impact on popularity. Provided statistical evidence on interaction probabilities post-profile visit, informing effective user strategies.
+
 #### 🍷 Red Wine Quality
 
 ### Power BI
