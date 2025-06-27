@@ -19,9 +19,7 @@ Code: Tech Store Sales Analysis.ipynb
 #### 🍷 Red Wine Quality
 **Goal:** Explore factors affecting red wine quality and build models to predict it based on physicochemical attributes.
 
-[Red Wine Quality](https://github.com/Yennhinn/github-portfolio/blob/main/Red_Wine_Quality.ipynb)
-
-[Red Wine Quality Report]()
+[Red Wine Quality](https://github.com/Yennhinn/github-portfolio/blob/main/Red_Wine_Quality.ipynb), [Red Wine Quality Report](https://github.com/Yennhinn/github-portfolio/blob/main/Red%20Wine%20Quality.pdf)
 
 **Skills:** Exploratory data analysis, classification & regression modeling, model tuning, performance evaluation.
 
