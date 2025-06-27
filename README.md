@@ -4,17 +4,17 @@ My name is Nguyen Ngoc Yen Nhi
 ## Projects
 ### Python
 #### 🏫 Scholarship Recommendation System
-**Goal:** To .
+**Goal:** Build a content-based recommendation system to match students with relevant scholarships using text data.
 
-Code: Tech Store Sales Analysis.ipynb
+[Scholarship Recommendation System]()
 
-**Description:** .
+**Description:** Designed a recommendation system using NLP techniques to analyze and compare student profiles with scholarship descriptions. Implemented vectorization (TF-IDF, Word2Vec, Doc2Vec, Sentence-BERT) and cosine similarity to calculate matching scores.
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+**Skills:** Text preprocessing, content-based filtering, vectorization, similarity measurement.
 
-**Technology:** text cleaning, text analysis, NLP.
+**Technology:** Python (Pandas, Scikit-learn), NLP.
 
-**Results:** 
+**Results:** Successfully recommended top scholarship matches based on content similarity. Improved matching accuracy by cleaning and structuring unstructured text data from both student profiles and scholarship listings.
 
 #### 🍷 Red Wine Quality
 **Goal:** Explore factors affecting red wine quality and build models to predict it based on physicochemical attributes.
