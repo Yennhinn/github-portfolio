@@ -1,6 +1,8 @@
 # Data Analyst Portfolio
 ## About me
-My name is Nguyen Ngoc Yen Nhi. I’m a final-year Business Analytics student with practical experience in data analysis, SQL, Python, Power BI, and machine learning. I’m looking for opportunities to apply my skills in real-world business problems and continue growing as a data professional.
+My name is Nguyen Ngoc Yen Nhi. I’m a final-year Business Analytics student with practical experience in data analysis, SQL, Python, Power BI, and basic machine learning. I’m looking for opportunities to apply my skills in real-world business problems and continue growing as a data professional.
+
+This portfolio includes projects in data analysis, machine learning, and dashboard development. Each project outlines the goal, tools used, key skills applied, and results achieved—demonstrating my ability to apply data techniques to real-world business problems.
 
 ## Projects
 ### Python
