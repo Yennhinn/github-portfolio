@@ -1,10 +1,23 @@
 # Data Analyst Portfolio
 ## About me
-My name is Nguyen Ngoc Yen Nhi. I’m a final-year Business Analytics student with practical experience in data analysis, SQL, Python, Power BI, and basic machine learning. I’m looking for opportunities to apply my skills in real-world business problems and continue growing as a data professional.
+My name is Nguyen Ngoc Yen Nhi. I'm a Business Analytics graduate from National Economics University (NEU), currently working full-time as a Data Analyst at AAA Insurance Corporation where I build end-to-end reporting dashboards used across 50+ branches. I bring hands-on experience in SQL, Python, Power BI, and machine learning, with a focus on turning operational data into actionable business insights.
 
-This portfolio includes projects in data analysis, machine learning, and dashboard development. Each project outlines the goal, tools used, key skills applied, and results achieved—demonstrating my ability to apply data techniques to real-world business problems.
+This portfolio showcases selected personal projects outside of my full-time role, spanning credit risk analysis, NLP recommendation systems, machine learning, and dashboard development — each demonstrating my ability to translate data into actionable business insights.
 
 ## Projects
+### SQL
+#### 💳 Credit Risk Analysis — Financial Loan Portfolio
+**Goal:** Analyze a financial loan portfolio to identify credit risk patterns, segment borrowers by risk profile, and surface insights to inform underwriting and limit management decisions.
+
+[Credit Risk Analysis SQL]()
+
+**Skills:** Risk segmentation, borrower profiling, trend analysis, window functions, CTEs, aggregations.
+
+**Technology:** SQL (CTEs, Window Functions, NTILE, LAG, PERCENTILE_CONT), MySQL.
+
+**Results:** Identified a 13.8% charge-off rate and surfaced a strong risk gradient across loan grades (Grade A: 2–8% vs. Grade F–G: 30–48%). Borrower segmentation by income quartile revealed Q1 borrowers carry up to 21% charge-off risk — a key signal for limit tightening. Counterintuitively, verified borrowers showed higher charge-off rates than unverified, flagging a gap in current verification policy.
+
+
 ### Python
 #### 🏫 Scholarship Recommendation System
 **Goal:** Build a content-based recommendation system to match students with relevant scholarships using text data.
