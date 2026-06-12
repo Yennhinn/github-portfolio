@@ -9,7 +9,7 @@ This portfolio showcases selected personal projects outside of my full-time role
 #### 💳 Credit Risk Analysis — Financial Loan Portfolio
 **Goal:** Analyze a financial loan portfolio to identify credit risk patterns, segment borrowers by risk profile, and surface insights to inform underwriting and limit management decisions.
 
-[Credit Risk Analysis SQL]()
+[Credit Risk Analysis SQL](https://github.com/Yennhinn/github-portfolio/blob/main/Financial_Loan.sql)
 
 **Skills:** Risk segmentation, borrower profiling, trend analysis, window functions, CTEs, aggregations.
 
