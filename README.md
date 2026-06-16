@@ -13,7 +13,7 @@ This portfolio showcases selected personal projects outside of my full-time role
 
 **Skills:** Risk segmentation, borrower profiling, trend analysis, window functions, CTEs, aggregations.
 
-**Technology:** SQL (CTEs, Window Functions, NTILE, LAG, PERCENTILE_CONT), MySQL.
+**Technology:** SQL (CTEs, Window Functions, NTILE, LAG, PERCENTILE_CONT).
 
 **Results:** Identified a 13.8% charge-off rate and surfaced a strong risk gradient across loan grades (Grade A: 2–8% vs. Grade F–G: 30–48%). Borrower segmentation by income quartile revealed Q1 borrowers carry up to 21% charge-off risk — a key signal for limit tightening. Counterintuitively, verified borrowers showed higher charge-off rates than unverified, flagging a gap in current verification policy.
 
